@@ -1,0 +1,79 @@
+body{
+	background-image: url(images/background.png);
+}
+a{
+	text-decoration: none; 
+	font-size: 30px;
+	font-family: sans-serif;
+	padding: 14px 10px;
+	font-weight: bold;
+	margin-left: 14px;
+	margin-right: 14px;
+}
+#nav_home a{
+	color: #6DC1E6;
+}
+ul{
+	padding: 10px
+}
+li{
+	list-style: none; 
+	display: inline;
+}
+li a{
+	color: black;
+}
+.navi{
+	height: 50px;
+	text-align: right;
+	margin-right: 40px;
+}
+.name_talent{
+	margin-top: 130px;
+	margin-left: 191px;
+	display: flex;
+}
+.me li{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: monospace;
+	display: block;
+}
+#hello{
+	
+}
+#name{
+	margin-top: -20px;
+	margin-left: 50px;
+	display: flex;
+}
+#name p{
+	margin-right: 20px;
+}
+#name img{
+	margin-top: -50px;
+}
+#talent{
+	margin-top: -20px;
+	margin-left: 100px;
+	display: flex;
+}
+#talent img{
+	margin-left: -60px;
+	margin-right: 40px;
+	margin-top: 25px;
+}
+.name_talent #photo_me{
+	margin-left: 500px;
+}
+.footer{
+	margin-top: 150px;
+	width: 100%;
+}
+.footer #pict_github{
+	margin-bottom: -20px;
+	margin-left: 1045px;
+}
+.footer #pict_ig{
+	margin-bottom: -10px;
+}
